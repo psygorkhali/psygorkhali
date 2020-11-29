@@ -42,4 +42,5 @@
 <img alt="CSS" src="https://img.shields.io/badge/Microstrategy-D9232E?logo=MicroStrategy&logoColor=white&style=flat-square" />
 <img alt="CSS" src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft-Excel&logoColor=white&style=flat-square" />
 <img alt="CSS" src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ-IDEA&logoColor=white&style=flat-square" />
+<img alt="CSS" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white&style=flat-square" />
 </p>
