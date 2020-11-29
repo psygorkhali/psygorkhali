@@ -38,7 +38,8 @@
 </p>
 
 <p>
-<img alt="CSS" src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ-IDEA&logoColor=white&style=flat-square" />
 <img alt="CSS" src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power-BI&logoColor=white&style=flat-square" />
-<img alt="CSS" src="https://img.shields.io/badge/MIcrostrategy-D9232E?logo=MicroStrategy&logoColor=white&style=flat-square" />
+<img alt="CSS" src="https://img.shields.io/badge/Microstrategy-D9232E?logo=MicroStrategy&logoColor=white&style=flat-square" />
+<img alt="CSS" src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft-Excel&logoColor=white&style=flat-square" />
+<img alt="CSS" src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ-IDEA&logoColor=white&style=flat-square" />
 </p>
