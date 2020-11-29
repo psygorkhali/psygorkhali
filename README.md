@@ -5,4 +5,4 @@
 
 ### What do i do?
 
-<img alt="" src="https://img.shields.io/badge/Data%20Warehousing-brightgreen" />
+<img alt="React" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
