@@ -45,5 +45,8 @@
 <img alt="CSS" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white&style=flat-square" />
 </p>
 ---
-
+<p>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psygorkhali)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psygorkhali)](https://github.com/anuraghazra/github-readme-stats)
+</p>
